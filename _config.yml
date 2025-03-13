@@ -16,10 +16,10 @@ ctitle: GCO # Abbreviated title for tab display
 description: Óptica no lineal y comunicaciones
 owner:
   name: Grupo de Comunicaciones Ópticas # or company name
-  url: "http://example.com" # your URL
+  url: "https://GCO.github.io" # your URL
 first_published: 2025 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
-url: "http://example.com" # the base hostname & protocol for this site
+url: "https://GCO.github.io" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
             # And list multiple sitemaps if there are other subdirectories you want indexed
