@@ -1234,7 +1234,6 @@ $baseurl: '{{ site.baseurl }}/images';
 	    max-width: 300px; /* Maximum width for each box */
 	    word-wrap: break-word; /* Wrap text if it exceeds the box width */
 			border: none;
-			box-shadow: none; /* Remove any box shadow */
 	  }
 
 	  @include breakpoint(small) {
