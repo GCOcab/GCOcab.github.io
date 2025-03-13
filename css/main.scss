@@ -1212,6 +1212,8 @@ $baseurl: '{{ site.baseurl }}/images';
 	  margin-bottom: 1em;
 	  padding: 1em; /* Add padding for spacing */
 		border: none;
+		outline: none; /* Remove any outline */
+		box-shadow: none; /* Remove any box shadow */
 
 	  img {
 	    margin-right: 1em; /* Add margin to the right of the image */
@@ -1234,6 +1236,8 @@ $baseurl: '{{ site.baseurl }}/images';
 	    max-width: 300px; /* Maximum width for each box */
 	    word-wrap: break-word; /* Wrap text if it exceeds the box width */
 			border: none;
+			outline: none; /* Remove any outline */
+			box-shadow: none; /* Remove any box shadow */
 	  }
 
 	  @include breakpoint(small) {
