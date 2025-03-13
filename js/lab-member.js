@@ -11,10 +11,11 @@ class LabMember extends HTMLElement {
 
 
     let imageHTML = '';
-    const baseUrl = "{{ site.baseurl }}";  // This will correctly fetch the base URL
+    
+    // Use the global baseUrl variable injected in HTML
     if (image && image !== 'None') {
       // Ensure the image path is correct relative to the base URL
-      imageHTML = `<img src="${baseUrl}/images/members/${image}" alt="Member ${name}">`;
+      imageHTML = `<img src="${window.baseUrl}/images/members/${image}" alt="Member ${name}">`;
     }
 
     let emailHTML = '';

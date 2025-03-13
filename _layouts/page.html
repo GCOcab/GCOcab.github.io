@@ -9,10 +9,8 @@ layout: default
 
   <head>
   <!-- Other head elements -->
+  <script>
+  window.baseUrl = "{{ site.baseurl }}";  // Inject base URL into the global JavaScript variable
+  </script>
   <script src="{{ '/js/lab-member.js' | relative_url }}" defer></script>
 </head>
-
-<!-- Inject base url js -->
-<script>
-  var baseUrl = "{{ site.baseurl }}";
-</script>
