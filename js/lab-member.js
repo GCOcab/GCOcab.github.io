@@ -15,7 +15,6 @@ class LabMember extends HTMLElement {
       imageHTML = `<img src="GCO/images/members/${image}" alt="Member ${name}">`;
     }
 
-
     let emailHTML = '';
     if (email && email !== 'None') {
       emailHTML = `<div class="box email-box">Correo electrónico: <a href="mailto:${email}">${email}</a></div>`;

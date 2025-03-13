@@ -1211,7 +1211,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	  gap: 3em; /* Add space between items */
 	  margin-bottom: 1em;
 	  padding: 1em; /* Add padding for spacing */
-		border: none;
+
 
 	  img {
 	    margin-right: 1em; /* Add margin to the right of the image */
@@ -1233,7 +1233,6 @@ $baseurl: '{{ site.baseurl }}/images';
 	    min-width: 150px; /* Minimum width for each box */
 	    max-width: 300px; /* Maximum width for each box */
 	    word-wrap: break-word; /* Wrap text if it exceeds the box width */
-			border: none;
 	  }
 
 	  @include breakpoint(small) {
