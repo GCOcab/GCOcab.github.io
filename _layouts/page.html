@@ -11,3 +11,8 @@ layout: default
   <!-- Other head elements -->
   <script src="{{ '/js/lab-member.js' | relative_url }}" defer></script>
 </head>
+
+<!-- Inject base url js -->
+<script>
+  var baseUrl = "{{ site.baseurl }}";
+</script>

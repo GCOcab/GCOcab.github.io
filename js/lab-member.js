@@ -17,9 +17,9 @@ class LabMember extends HTMLElement {
 
     let imageHTML = '';
     if (image && image !== 'None') {
-      // Use {{ site.baseurl }} to account for any base URL in Jekyll
-      imageHTML = `<img src="{{ site.baseurl }}/images/members/${image}" alt="Member ${name}">`;
+      imageHTML = `<img src="${baseUrl}/images/members/${image}" alt="Member ${name}">`;
     }
+
 
     let emailHTML = '';
     if (email && email !== 'None') {
