@@ -9,9 +9,16 @@ class LabMember extends HTMLElement {
     const image = this.getAttribute('image');
     const subject = this.getAttribute('subject');
 
+
+    //let imageHTML = '';
+    //if (image && image !== 'None') {
+    //  imageHTML = `<img src="/images/members/${image}" alt="Member ${name}">`;
+    //}
+
     let imageHTML = '';
     if (image && image !== 'None') {
-      imageHTML = `<img src="/images/members/${image}" alt="Member ${name}">`;
+      // Use {{ site.baseurl }} to account for any base URL in Jekyll
+      imageHTML = `<img src="{{ site.baseurl }}/images/members/${image}" alt="Member ${name}">`;
     }
 
     let emailHTML = '';
