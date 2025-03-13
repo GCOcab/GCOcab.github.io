@@ -16,8 +16,6 @@ class LabMember extends HTMLElement {
     }
 
 
-
-
     let emailHTML = '';
     if (email && email !== 'None') {
       emailHTML = `<div class="box email-box">Correo electrónico: <a href="mailto:${email}">${email}</a></div>`;
