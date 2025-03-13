@@ -4,7 +4,7 @@ excerpt: How to use this theme
 tags: featured
 author: arkadianriver
 options: [minihead]
-permalink: /topics/user-guide/
+permalink: /topics/user-guide/asd
 categories:
   - topics
   - user-guide
@@ -27,5 +27,3 @@ see the [Github README](https://github.com/arkadianriver/arkadianriver.com).
 - [Shortcut includes]({{ '/topics/user-guide/template2.html' | prepend: site.baseurl }})
 - [HTML5 UP Elements]({{ '/topics/user-guide/elements.html' | prepend: site.baseurl }})
 - [Font-Awesome icon reference]({{ '/topics/user-guide/icons.html' | prepend: site.baseurl }})
-
-

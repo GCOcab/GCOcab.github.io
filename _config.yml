@@ -11,12 +11,13 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: _site name_
-description: _description_
+title: Grupo de Comunicaciones Ópticas
+ctitle: GCO # Abbreviated title for tab display
+description: Óptica no lineal y comunicaciones
 owner:
-  name: _your name_ # or company name
+  name: Grupo de Comunicaciones Ópticas # or company name
   url: "http://example.com" # your URL
-first_published: 2010 # if migrating another site, the year of your first publish
+first_published: 2025 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "http://example.com" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,21 +28,21 @@ lang: en-us # used in HTML lang attributes
 
 # on landing page
 # - set the greeting only if you want to display the first green section
-greeting:
-  title: _Your greeting_  
-  text: _Your detailed greeting text_
+#greeting:
+#  title: _Your greeting_
+#  text: _Your detailed greeting text_
 # - displayed at the bottom
-closing-head: _Your closing_
-closing-para: _Your detailed closing_
+closing-head: Contactate con nosotros
+closing-para:
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/_username_
-  github: https://github.com/_username_
-  linkedin-square: https://linkedin.com/in/_username_
-  facebook-official: https://facebook.com/_username_
+  #twitter: https://twitter.com/_username_
+  #github: https://github.com/Luke-N-G
+  #linkedin-square: https://linkedin.com/in/_username_
+  #facebook-official: https://facebook.com/_username_
   #google-plus-square: https://plus.google.com/u/0/+_username_
-  email: /contact/ # you can configure and use this contact page or use your email addy
+  #email: /contact/ # you can configure and use this contact page or use your email addy
   #flickr:
   #instagram:
   #youtube-square:
@@ -77,7 +78,14 @@ social:
   #amazon:
 
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: Sobre el GCO
+
+about: |
+  En nuestro grupo de investigación, estudiamos la óptica no lineal en medios guiados y sus aplicaciones en telecomunicaciones y sensado.
+  También exploramos las comunicaciones clásicas y la distribución cuántica de la información.
+  Contamos con un laboratorio moderno y equipado donde llevamos a cabo estos estudios.<br><br>
+
+  Somos parte del departamento de ingenieria en telecomunicaciones, Instituto Balseiro, CAB, CNEA.
 
 # if you use this repo's `ruby compose.rb` script to initiate new posts, put the
 # command to invoke your editor here. (I didn't spend time dealing with spaces
@@ -124,6 +132,11 @@ defaults:
       path: _drafts
     values:
       layout: post
+
+# Shit I added
+collections:
+  pages:
+    output: true
 
 # to initialize arrays in assignments (assign myarr = site.empty_array)
 # (easier to grok than assign myarr = '' | split',')

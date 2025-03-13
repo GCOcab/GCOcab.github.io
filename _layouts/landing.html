@@ -14,6 +14,12 @@
         <!-- Banner -->
           <section id="banner">
             <div class="inner">
+              <!--<div style="position: absolute; top: -15px; left: 12px;">
+                <img src="{{ site.baseurl }}/images/GCO_log1.png" alt="Logo" style="height: 100px;">
+              </div>-->
+              <!--<p><strong style="font-size: 10em;">GCO</strong></p>-->
+              <!--<p><img src="{{ site.baseurl }}/images/GCO_log2.png" alt="Logo" style="height: 150px; margin-left: 90px;"></p>-->
+              <p><img src="{{ site.baseurl }}/images/GCO_log2.png" alt="Logo" class="responsive-logo"></p>
               <h1>{{ site.title }}</h1>
               <p>{{ site.description }}</p>
               <!--
@@ -23,14 +29,16 @@
               -->
             </div>{%
             if site.greeting %}
-            <a href="#greeting" class="more scrolly">Continue</a>{%
+            <a href="#greeting" class="more scrolly">Continuar</a>{%
             else %}
-            <a href="#landing_pages" class="more scrolly">Continue</a>{%
+            <a href="#landing_pages" class="more scrolly">Continuar</a>{%
             endif %}
           </section>
+
+          <!--One: Greetings
           {%
           if site.greeting %}
-        <!-- One -->
+
           <section id="greeting" class="wrapper style1 special">
             <div class="inner">
               <header class="major">
@@ -55,9 +63,9 @@
               </ul>
             </div>
           </section>{%
-          endif %}
+          endif %}-->
 
-        <!-- Two -->
+        <!-- Two Landing Pages
           <section id="landing_pages" class="wrapper alt style2">{%
             assign sorted_pages = site.pages | sort:"id" %}{%
             for my_page in sorted_pages %}{%
@@ -81,37 +89,36 @@
                 endunless %}{%
               endif %}{%
             endfor %}
-          </section>
+          </section>-->
 
-        <!-- Three -->{%
-      if site.tags.featured %}
-          <section id="landing_features" class="wrapper style3 special">
-            <div class="inner">
-              <header class="major">
-                <h2>{{ site.features-title }}</h2>
-                <!-- <p>Blog posts with decent content</p> -->
-              </header>
-              <ul class="features">{%
-                for my_post in site.posts %}{%
-                  if my_post.tags contains 'featured' %}{%
-                    assign i = i | plus:1 %}
-                <li class="icon fa-{% if my_post.icon %}{{ my_post.icon }}{% else %}heart-o{% endif %}"><!-- featured:{{ i }} -->
-                  <a href="{{ my_post.url | prepend:site.baseurl }}">
-                  <div class="container">
-                  <h3>{{ my_post.title }}</h3>
-                  <p>{{ my_post.data}}<br />{{ my_post.excerpt | strip_html | truncatewords: 16 }}</p>
-                  </div>
-                  </a>
-                </li>{%
-                    if i == 8 %}{%
-                      break %}{%
-                    endif %}{%
-                  endif %}{%
-                endfor %}
-              </ul>
-            </div>
-          </section>{%
-      endif %}
+          <!-- Three: Featured -->
+          {% if site.pages %}
+            <section id="landing_features" class="wrapper style3 special">
+              <div class="inner">
+                <header class="major">
+                  <h2>{{ site.features-title }}</h2>
+                </header>
+                <p style="text-align: center; font-size: 1.2em;">{{ site.about}}</p>
+
+
+                <ul class="features">
+                  {% assign featured_pages = site.pages | where: "featured", true %}
+                  {% for page in featured_pages %}
+                    <li class="icon fa-{% if page.icon %}{{ page.icon }}{% else %}heart-o{% endif %}">
+                      <a href="{{ page.url | prepend: site.baseurl }}">
+                        <div class="container">
+                          <h3>{{ page.title }}</h3>
+                          <!--
+                          <p>{{ page.excerpt | strip_html | truncatewords: 16 }}</p>
+                          -->
+                        </div>
+                      </a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </section>
+          {% endif %}
 
         <!-- CTA -->
           <section id="cta" class="wrapper style4">
@@ -122,10 +129,11 @@
               </header>
               <ul class="actions vertical">
                 <!-- <li><a href="#" class="button fit special">Activate</a></li> -->
-                <li><a href="{{ '/contact/' | prepend: site.baseurl }}" class="button fit special">Contact</a></li>
+                <li><a href="{{ '/contact/' | prepend: site.baseurl }}" class="button fit special">Contacto</a></li>
               </ul>
             </div>
           </section>
+
 
       {% include footer.html %}
 
