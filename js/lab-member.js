@@ -12,7 +12,7 @@ class LabMember extends HTMLElement {
 
     let imageHTML = '';
     if (image && image !== 'None') {
-      imageHTML = `<img src="GCO/images/members/${image}" alt="Member ${name}">`;
+      imageHTML = `<img src="${window.location.pathname}images/members/${image}" alt="Member ${name}">`;
     }
 
     let emailHTML = '';
