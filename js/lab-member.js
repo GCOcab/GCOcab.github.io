@@ -10,15 +10,12 @@ class LabMember extends HTMLElement {
     const subject = this.getAttribute('subject');
 
 
-    //let imageHTML = '';
-    //if (image && image !== 'None') {
-    //  imageHTML = `<img src="/images/members/${image}" alt="Member ${name}">`;
-    //}
-
     let imageHTML = '';
     if (image && image !== 'None') {
-      imageHTML = `<img src="${baseUrl}/images/members/${image}" alt="Member ${name}">`;
+      imageHTML = `<img src="GCO/images/members/${image}" alt="Member ${name}">`;
     }
+
+
 
 
     let emailHTML = '';
