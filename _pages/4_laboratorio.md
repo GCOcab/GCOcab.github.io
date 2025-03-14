@@ -28,8 +28,8 @@ icon: none
 <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d948.2992828253953!2d-71.41066084562978!3d-41.12305684523969!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2sar!4v1741897173069!5m2!1ses-419!2sar"></iframe><br />
 
 
-<div class="google-maps">
-<iframe>https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d948.2992828253953!2d-71.41066084562978!3d-41.12305684523969!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2sar!4v1741897173069!5m2!1ses-419!2sar</iframe>
+<div class="iframe-rwd">
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d948.2992828253953!2d-71.41066084562978!3d-41.12305684523969!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2sar!4v1741897173069!5m2!1ses-419!2sar"></iframe><br /><small><a href="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d948.2992828253953!2d-71.41066084562978!3d-41.12305684523969!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2sar!4v1741897173069!5m2!1ses-419!2sar" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 </div>
 
 <h2>Equipamiento e instrumental</h2>
