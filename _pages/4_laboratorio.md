@@ -11,6 +11,7 @@ background-image: banneralt4.jpg
 icon: none
 ---
 <!-- Armamos una tabla para poder usar dos columnas -->
+<table class="responsive-table" style="width: 100%; border-collapse: collapse;">
   <tr>  
   <td style="vertical-align: top; padding: 0;">
     <div class="text-content">
