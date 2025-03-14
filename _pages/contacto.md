@@ -3,7 +3,8 @@ key: 1
 title: Contacto
 permalink: /contacto/
 options: fullwidth, nolanding, [minihead]
-tags: featured
+tags: 
+featured: false
 excerpt: ""
 image: pic01.jpg
 background-image: caustic_light.jpg
