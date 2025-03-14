@@ -10,10 +10,8 @@ image: pic01.jpg
 background-image: banneralt4.jpg
 icon: none
 ---
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-  </td>
+<!-- Armamos una tabla para poder usar dos columnas -->
+  <tr>  
   <td style="vertical-align: top; padding: 0;">
     <div class="text-content">
       <h2>Sobre el laboratorio</h2>
@@ -21,15 +19,13 @@ icon: none
       <p>Suspendisse habitant ullamcorper libero, per consequat habitasse eleifend volutpat felis. Vestibulum parturient elementum sodales porta velit tristique felis nec dictum. Iaculis pulvinar taciti platea nunc duis; amet elit. Eros ornare suscipit pharetra ultricies laoreet enim cubilia vulputate. Venenatis elementum suscipit potenti netus curabitur. Ipsum odio odio ridiculus suscipit etiam, dictumst purus leo. Eleifend dictum suscipit neque id lacus vivamus? Libero fermentum torquent malesuada gravida erat taciti. Viverra maecenas nullam pellentesque nulla ut sed rhoncus.</p>
     </div>
   </td>
-    <td style="vertical-align: top; padding-right: 2em;">
+  <td style="vertical-align: top; padding-right: 2em;">
     <div class="iframe-rwd">
         <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d948.2992828253953!2d-71.41066084562978!3d-41.12305684523969!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2sar!4v1741897173069!5m2!1ses-419!2sar"></iframe><br /><small><a href="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d948.2992828253953!2d-71.41066084562978!3d-41.12305684523969!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2sar!4v1741897173069!5m2!1ses-419!2sar" style="color:#0000FF;text-align:left">View Larger Map</a></small>
     </div>
+  </td>
   </tr>
 </table>
-
-
-
 
 
 <h2>Equipamiento e instrumental</h2>

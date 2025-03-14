@@ -9,7 +9,7 @@ licenses:
   sil:
     name : SIL Open Font License, 1.1
     icon :
-    url  : 
+    url  :
   mit:
     name : MIT License
     icon :
@@ -48,17 +48,17 @@ licenses:
     url  :
 #
 # 'lic' values correspond to the keys in the license hash above
-# 
+#
 creds:
-  - for : Design and theme
+  - for : Template HTML5
     by  : '@ajlkn'
     url : http://html5up.net/spectral
     lic : ccb3
-  - for : Mods for a Jekyll blog
+  - for : Adaptación a Jekyll
     by  : arkadianriver
     url : http://arkadianriver.com
     lic : mit
-  - for : Icons
+  - for : Iconos
     by  : Dave Gandy
     url : https://fortawesome.github.io/Font-Awesome/
     lic : mit
@@ -87,23 +87,11 @@ creds:
     url : https://jquery.com/
     lic : mit
 #
-inspiration:
-  - name : Michael Rose
-    url  : https://github.com/mmistakes
-  - name : David Ollerhead
-    url  : https://github.com/oller
-  - name : Bud Parr
-    url  : https://github.com/budparr
-  - name : Vladimir Zhbanko
-    url  : https://twitter.com/vladdsm
-  - name : Adam Garrett-Harris
-    url  : https://twitter.com/agarrharr
-#
-other-image-credit: All other images are public domain.
+other-image-credit: Todas las otras imágenes son pertenecientes al grupo.
 #
 # Chances are you replaced at least the banner below and will want
 # to change the attribution.
-# 
+#
 # 'lic' values correspond to the keys in the license hash above
 #
 image-credit:
@@ -119,4 +107,3 @@ image-credit:
     by  : Konstaninos Dafallas
     url : https://www.flickr.com/photos/72906133@N00/4011647045/
     lic : ccb2
-
