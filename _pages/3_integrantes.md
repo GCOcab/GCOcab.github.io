@@ -66,7 +66,7 @@ icon: none
 <ul class="alt">
   <h5>Becarios</h5>
   <li>Alexis Sparapani. Doctorado en ingenieria.</li>
-  <li>Nicolás Bonetti. Doctorado en ingenieria.</li>
+  <li>Nicolás Linale. Doctorado en ingenieria.</li>
   <li>Juan Bonetti. Doctorado en ingenieria.</li>
   <li>Alfredo Sanchez. Doctorado en ingenieria.</li>
   <br>
