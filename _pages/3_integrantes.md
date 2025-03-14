@@ -33,7 +33,7 @@ icon: none
 <ul class="alt">
 
   <!-- German F. -->
-  <li><lab-member image="german.png" name="German Fernandez" place="Becario doctoral CNEA" email="german.fernandez@ib.edu.ar"
+  <li><lab-member image="german.png" name="Germán Fernández" place="Becario doctoral CNEA" email="german.fernandez@ib.edu.ar"
   subject= "Doctorado en ingenieria. Director: Diego Grosz"></lab-member></li>
 
   <!-- Ceci J. -->
@@ -66,12 +66,12 @@ icon: none
 <ul class="alt">
   <h5>Becarios</h5>
   <li>Alexis Sparapani. Doctorado en ingenieria.</li>
-  <li>Nicolas Bonetti. Doctorado en ingenieria.</li>
+  <li>Nicolás Bonetti. Doctorado en ingenieria.</li>
   <li>Juan Bonetti. Doctorado en ingenieria.</li>
   <li>Alfredo Sanchez. Doctorado en ingenieria.</li>
   <br>
   <h5>Estudiantes</h5>
-  <li>Jeronimo Bercic. Ingenieria en telecomunicaciones.</li>
-  <li>Agustin Scokin. Ingenieria en telecomunicaciones.</li>
-  <li>Eva Voss. Ingenieria en telecomunicaciones.</li>
+  <li>Jeronimo Bercic. PI ing. en telecomunicaciones.</li>
+  <li>Agustín Scokin. PI ing. en telecomunicaciones.</li>
+  <li>Eva Voss. PI ing. en telecomunicaciones.</li>
 </ul>
