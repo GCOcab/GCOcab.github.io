@@ -23,7 +23,7 @@ icon: none
   <li><lab-member image="santi.png" name="Santiago Hernandez" place="Investigador adjunto CONICET" email="shernandez@ib.edu.ar"></lab-member></li>
 
   <!-- Julio B. -->
-  <li><lab-member image="julio.png" name="Julio Benitez" place="Investigador CNEA" email="jcbenitez@ib.edu.ar"></lab-member></li>
+  <li><lab-member image="julio.png" name="Julio Benítez" place="Investigador CNEA" email="jcbenitez@ib.edu.ar"></lab-member></li>
 </ul>
 
 ---
