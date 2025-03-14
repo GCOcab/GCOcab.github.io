@@ -56,7 +56,7 @@ icon: none
 <ul class="alt">
 
   <!-- Fran A. -->
-  <li><lab-member image=None name="Francisco Agretti" place="Instituto Balseiro" email=None subject="Proyecto integrador ingenieria en telecomunicaciones. Director: Santiago Hernandez"></lab-member></li>
+  <li><lab-member image="fran.png" name="Francisco Agretti" place="Instituto Balseiro" email=None subject="Proyecto integrador ingenieria en telecomunicaciones. Director: Santiago Hernandez"></lab-member></li>
 
 </ul>
 
