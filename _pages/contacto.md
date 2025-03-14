@@ -3,7 +3,7 @@ key: 1
 title: Contacto
 permalink: /contacto/
 options: fullwidth, nolanding, [minihead]
-tags: 
+tags:
 featured: false
 excerpt: ""
 image: pic01.jpg
@@ -14,7 +14,6 @@ icon: none
 <section class="contact-section">
   <div class="contact-container">
     <div class="contact-info">
-      <h1 class="section-title">¡Contáctanos!</h1>
 
       <!-- Contact Emails Section -->
       <div class="contact-card">
