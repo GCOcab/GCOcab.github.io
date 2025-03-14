@@ -1230,15 +1230,21 @@ $baseurl: '{{ site.baseurl }}/images';
 	    gap: 1em; /* Add space between text boxes */
 	  }
 
-	  .box {
-	    flex: 1; /* Allow each box to take up equal space */
-	    min-width: 150px; /* Minimum width for each box */
-	    max-width: 300px; /* Maximum width for each box */
-	    word-wrap: break-word; /* Wrap text if it exceeds the box width */
-			border: none;
-			outline: none; /* Remove any outline */
-			box-shadow: none; /* Remove any box shadow */
-	  }
+		.box {
+		  flex: 1; /* Allow each box to take up equal space */
+		  min-width: 150px; /* Minimum width for each box */
+		  max-width: 300px; /* Maximum width for each box */
+		  word-wrap: break-word; /* Wrap text if it exceeds the box width */
+		  border: none !important; /* Explicitly ensure no border is applied */
+		  outline: none !important; /* Explicitly ensure no outline is applied */
+		  box-shadow: none !important; /* Explicitly ensure no box shadow is applied */
+		}
+
+		/* Optional: If any input fields or other elements might have borders */
+		input, textarea, select {
+		  border: none !important;
+		  outline: none !important;
+		}
 
 	  @include breakpoint(small) {
 	    flex-direction: column; /* Stack items vertically on small devices */
