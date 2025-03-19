@@ -102,7 +102,10 @@ ea laboris exercitation excepteur.
 
 <h2>Colaboraciones</h2>
 <ul class="alt">
-  <li>Laboratorio de magia arcana, El Bolson, Arg.</li>
-  <li>Laboratorio de magia arcana, El Bolson, Arg.</li>
-  <li>Laboratorio de magia arcana, El Bolson, Arg.</li>
+  <li>Instituto de Nanociencia y Nanotecnología (INN), CAB, CNEA.</li>
+  <li>Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET).</li>
+  <li>INVAP S.A.</li>
+  <li>CITEDEF.</li>
+  <li>Gerencia CAREM, CNEA.</li>
+  <li>Gerencia Física, CAB, CNEA.</li>
 </ul>
