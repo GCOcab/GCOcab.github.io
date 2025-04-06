@@ -74,4 +74,8 @@ icon: none
   <li>Jeronimo Bercic. PI ing. en telecomunicaciones.</li>
   <li>Agustín Scokin. PI ing. en telecomunicaciones.</li>
   <li>Eva Voss. PI ing. en telecomunicaciones.</li>
+  <li>Santiago Chipolina. PI ing. en telecomunicaciones.</li>
+  <li>Lautaro Mendieta. PI ing. en telecomunicaciones.</li>
+  <li>Lucas Grigolato. PI ing. en telecomunicaciones.</li>
+  <li>Adrien Fournol (estudiante de pasantía del INP - Grenoble en el Instituto Balseiro, Programa ARFITEC)</li>
 </ul>

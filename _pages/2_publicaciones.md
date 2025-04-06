@@ -114,3 +114,15 @@ icon: none
 <ul class="alt">
 
 <li>Hernandez, S. M., Fierens, P. I., Bonetti, J., Sanchez, A. D., & Grosz, D. F. (2017). A geometrical view of scalar modulation instability in optical fibers. IEEE Photonics Journal, 9(5), 1–8. https://doi.org/10.1109/jphot.2017.2754984</li>
+
+<h3>2016</h3>
+<ul class="alt">
+
+<li>Bonetti J., Hernandez S. M., Fierens P. I.  & Grosz D. F. (2016). Analytical study of coherence in seeded modulation instability.Phys. Rev. A, 94, 033826. https://doi.org/10.1103/PhysRevA.94.033826</li>
+
+<h3> Patentes </h3>
+<ul class="alt">
+
+<li> “Dispositivo de detección óptica y método de medición distribuida lineal para medir deformaciones mecánicas de materiales y estructuras”. Solicitud de patente Nº: 20210102993 </li>
+<li> “Método de medición no lineal para medir deformaciones mecánicas de materiales y estructuras”. Solicitud de patente Nº: 20210103011</li>
+<li> “Método de medición distribuida no lineal para medir deformaciones mecánicas de materiales y estructuras”. Solicitud de patente N°: 20230102020 </li>

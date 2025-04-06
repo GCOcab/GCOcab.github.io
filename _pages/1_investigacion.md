@@ -11,7 +11,7 @@ background-image: banneralt1.jpg
 icon: none
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En el GCO investigamos aspectos de la propagación no lineal de la luz en fibras ópticas, en fibras de cristal fotónico y en dispositivos de óptica integrada (“fotónica de silicio”), con aplicaciones a la transmisión de información, la conmutación completamente óptica de información (“all-optical switching”), la generación de luz en rangos espectrales de interés y los sensores fotónicos de magnitudes físicas.
 
 
 ---
