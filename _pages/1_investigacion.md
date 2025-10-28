@@ -18,20 +18,9 @@ En el GCO investigamos aspectos de la propagación no lineal de la luz en fibras
 
 {% include post_picwrap.html pos="right" src="/images/pic03.jpg" max=500 %}
 
-# Linea 1
+# Propagación en medios con respuesta no lineal dependiente de la frecuencia.
 
-Laborum et in in cillum quis ut mollit id sit dolor nostrud. Occaecat mollit
-in adipisicing magna nostrud sunt nulla consectetur cupidatat tempor dolore
-magna. Est ad sit eu tempor aute sunt sunt excepteur cupidatat sed irure ut et
-elit veniam. Lorem ipsum tempor quis ea in minim labore nisi aute ea sed irure
-nisi occaecat est magna occaecat occaecat. Nostrud sed est ullamco enim ut
-proident dolor et in consequat aliquip in ex eu ad. Incididunt sit sit dolore
-dolore ut excepteur sunt laboris ut ullamco velit. Veniam tempor dolor magna
-in nulla elit dolor ea et commodo in. Laboris eu adipisicing nostrud commodo
-commodo ea laborum non minim cupidatat. Lorem ipsum non laborum anim ex labore
-commodo commodo eu aliqua est ea consequat do aute ex amet incididunt
-consectetur enim. Consequat consectetur occaecat cillum tempor occaecat sunt
-ea laboris exercitation excepteur.
+Investigamos la propagación de pulsos cortos y solitones en medios ópticos con respuestas no lineales dependiente de la frecuencia. Se estudian, de manera teórica y numérica, los aspectos vinculados a la formación y evolución de solitones, los efectos del scattering Raman, y la interacción entre efectos lineales y no lineales.  
 
 <br> <br>
 
@@ -39,41 +28,18 @@ ea laboris exercitation excepteur.
 
 {% include post_picwrap.html pos="left" src="/images/pic03.jpg" max=500 %}
 
-# Linea 2
+# Analogías espacio-temporales y esquemas de conmutación totalmente óptica en fibra.
 
-Laborum et in in cillum quis ut mollit id sit dolor nostrud. Occaecat mollit
-in adipisicing magna nostrud sunt nulla consectetur cupidatat tempor dolore
-magna. Est ad sit eu tempor aute sunt sunt excepteur cupidatat sed irure ut et
-elit veniam. Lorem ipsum tempor quis ea in minim labore nisi aute ea sed irure
-nisi occaecat est magna occaecat occaecat. Nostrud sed est ullamco enim ut
-proident dolor et in consequat aliquip in ex eu ad. Incididunt sit sit dolore
-dolore ut excepteur sunt laboris ut ullamco velit. Veniam tempor dolor magna
-in nulla elit dolor ea et commodo in. Laboris eu adipisicing nostrud commodo
-commodo ea laborum non minim cupidatat. Lorem ipsum non laborum anim ex labore
-commodo commodo eu aliqua est ea consequat do aute ex amet incididunt
-consectetur enim. Consequat consectetur occaecat cillum tempor occaecat sunt
-ea laboris exercitation excepteur.
-
+Se investigan analogías entre propagación no lineal y evolución espacio-temporal, con el propósito de desarrollar y optimizar esquemas de conmutación totalmente óptica (all-optical switching). El trabajo se centra en el estudio de la interacción entre pulsos, la manipulación de la velocidad de grupo y la generación de horizontes ópticos, entre otros efectos. Estos desarrollos buscan aportar nuevas herramientas conceptuales y tecnológicas para el control eficiente y ultrarrápido de señales ópticas.
 <br> <br>
 
 ---
 
 {% include post_picwrap.html pos="right" src="/images/pic03.jpg" max=500 %}
 
-# Linea 3
+# Aplicaciones de materiales bidimensionales en el control de la respuesta no lineal de medios guiados.
 
-Laborum et in in cillum quis ut mollit id sit dolor nostrud. Occaecat mollit
-in adipisicing magna nostrud sunt nulla consectetur cupidatat tempor dolore
-magna. Est ad sit eu tempor aute sunt sunt excepteur cupidatat sed irure ut et
-elit veniam. Lorem ipsum tempor quis ea in minim labore nisi aute ea sed irure
-nisi occaecat est magna occaecat occaecat. Nostrud sed est ullamco enim ut
-proident dolor et in consequat aliquip in ex eu ad. Incididunt sit sit dolore
-dolore ut excepteur sunt laboris ut ullamco velit. Veniam tempor dolor magna
-in nulla elit dolor ea et commodo in. Laboris eu adipisicing nostrud commodo
-commodo ea laborum non minim cupidatat. Lorem ipsum non laborum anim ex labore
-commodo commodo eu aliqua est ea consequat do aute ex amet incididunt
-consectetur enim. Consequat consectetur occaecat cillum tempor occaecat sunt
-ea laboris exercitation excepteur.
+Esta línea de investigación explora el uso de materiales bidimensionales, como el grafeno y el óxido de grafeno, integrados en estructuras fotónicas guiadas para el control de su respuesta no lineal. Se estudian sus propiedades ópticas y su potencial para mejorar el desempeño de sistemas de sensado fotónico, tanto en configuraciones discretas como distribuidas. En base a esto se desarrollan sensores de, por ejemplo, esfuerzo mecánico y temperatura.
 
 <br> <br>
 
@@ -81,21 +47,9 @@ ea laboris exercitation excepteur.
 
 {% include post_picwrap.html pos="left" src="/images/pic03.jpg" max=500 %}
 
-# Linea 4
+# Esquemas de generación y detección de pocos fotones, y aplicaciones en comunicación cuántica.
 
-Laborum et in in cillum quis ut mollit id sit dolor nostrud. Occaecat mollit
-in adipisicing magna nostrud sunt nulla consectetur cupidatat tempor dolore
-magna. Est ad sit eu tempor aute sunt sunt excepteur cupidatat sed irure ut et
-elit veniam. Lorem ipsum tempor quis ea in minim labore nisi aute ea sed irure
-nisi occaecat est magna occaecat occaecat. Nostrud sed est ullamco enim ut
-proident dolor et in consequat aliquip in ex eu ad. Incididunt sit sit dolore
-dolore ut excepteur sunt laboris ut ullamco velit. Veniam tempor dolor magna
-in nulla elit dolor ea et commodo in. Laboris eu adipisicing nostrud commodo
-commodo ea laborum non minim cupidatat. Lorem ipsum non laborum anim ex labore
-commodo commodo eu aliqua est ea consequat do aute ex amet incididunt
-consectetur enim. Consequat consectetur occaecat cillum tempor occaecat sunt
-ea laboris exercitation excepteur.
-
+Esta línea se orienta al desarrollo y caracterización de técnicas y dispositivos para la generación y detección de señales ópticas de muy baja potencia, en particular, en el régimen de pocos fotones. Se trabaja en la optimización de la eficiencia de generación por medio de procesos no lineales, en la detección y en la reducción del ruido, con especial énfasis en su aplicación a sistemas de distribución cuántica de claves (QKD).
 <br> <br>
 
 ---
