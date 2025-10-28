@@ -1390,23 +1390,25 @@ $baseurl: '{{ site.baseurl }}/images';
 
 /* Containers for google maps and lab info */
 
+
 	.lab-container {
 	  display: flex;
-	  flex-wrap: wrap;
-	  gap: 1.5rem;
-	  align-items: flex-start;
+	  flex-direction: row;
+	  justify-content: space-between;
+	  align-items: stretch;
+	  gap: 2rem;
+	  flex-wrap: nowrap; /* prevent stacking on small screens */
 	}
 
 	.lab-container .text-content {
-	  flex: 1 1 400px;
-	  min-width: 280px;
+	  flex: 1 1 50%;
+	  min-width: 300px;
 	}
 
 	.lab-container .map-container {
-	  flex: 1 1 400px;
-	  min-width: 280px;
+	  flex: 1 1 50%;
 	  position: relative;
-	  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+	  padding-bottom: 35%; /* Adjust height ratio */
 	  height: 0;
 	  overflow: hidden;
 	}
@@ -1418,6 +1420,16 @@ $baseurl: '{{ site.baseurl }}/images';
 	  width: 100%;
 	  height: 100%;
 	  border: 0;
+	}
+
+	/* Optional: prevent layout breaking on very narrow screens */
+	@media (max-width: 700px) {
+	  .lab-container {
+	    flex-wrap: wrap;
+	  }
+	  .map-container {
+	    padding-bottom: 56.25%;
+	  }
 	}
 
 /* Contact */
