@@ -21,7 +21,7 @@ En el GCO investigamos aspectos de la propagación no lineal de la luz en fibras
     <h2>Propagación en medios con respuesta no lineal dependiente de la frecuencia</h2>
     <p>Investigamos la propagación de pulsos cortos y solitones en medios ópticos con respuestas no lineales dependientes de la frecuencia. Se estudian, de manera teórica y numérica, los aspectos vinculados a la formación y evolución de solitones, los efectos del scattering Raman, y la interacción entre efectos lineales y no lineales.</p>
   </div>
-  <img src="/images/pic03.jpg" alt="" style="flex:1 1 300px; max-width:400px; width:100%; border-radius:8px; order:2;">
+  <img src="/images/investigacion/pcnlse.png" alt="" style="flex:1 1 300px; max-width:400px; width:100%; border-radius:8px; order:2;">
 </div>
 
 
