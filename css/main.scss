@@ -1430,48 +1430,13 @@ $baseurl: '{{ site.baseurl }}/images';
 	  }
 	}
 
-// /* Reasearch boxes */
-// 	.research-box {
-// 	  display: flex;
-// 	  flex-wrap: wrap;
-// 	  align-items: center;
-// 	  justify-content: space-between;
-// 	  background: #f8f8f8;  /* subtle background */
-// 	  border-radius: 12px;
-// 	  padding: 1.5rem;
-// 	  margin: 2rem 0;
-// 	  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-// 	  gap: 1.5rem;
-// 	}
-//
-// 	/* Make sure the image doesn’t get huge */
-// 	.research-box img {
-// 	  max-width: 400px;
-// 	  width: 100%;
-// 	  border-radius: 8px;
-// 	}
-//
-// 	/* The text area */
-// 	.research-box .text {
-// 	  flex: 1 1 300px;
-// 	  text-align: justify;
-// 	}
-//
-// 	/* For narrow screens, stack vertically */
-// 	@media (max-width: 800px) {
-// 	  .research-box {
-// 	    flex-direction: column;
-// 	    text-align: center;
-// 	  }
-// 	}
-
-	/* Research boxes, fix for small screen */
+/* Reasearch boxes */
 	.research-box {
 	  display: flex;
 	  flex-wrap: wrap;
 	  align-items: center;
 	  justify-content: space-between;
-	  background: #f8f8f8;
+	  background: #f8f8f8;  /* subtle background */
 	  border-radius: 12px;
 	  padding: 1.5rem;
 	  margin: 2rem 0;
@@ -1479,33 +1444,27 @@ $baseurl: '{{ site.baseurl }}/images';
 	  gap: 1.5rem;
 	}
 
+	/* Make sure the image doesn’t get huge */
 	.research-box img {
 	  max-width: 400px;
 	  width: 100%;
 	  border-radius: 8px;
 	}
 
+	/* The text area */
 	.research-box .text {
 	  flex: 1 1 300px;
 	  text-align: justify;
 	}
 
-	/* alternate layouts on desktop */
-	.research-box.right .text { order: 1; }
-	.research-box.right img { order: 2; }
-
-	.research-box.left .text { order: 2; }
-	.research-box.left img { order: 1; }
-
-	/* stack vertically on small screens, always text then image */
+	/* For narrow screens, stack vertically */
 	@media (max-width: 800px) {
 	  .research-box {
 	    flex-direction: column;
 	    text-align: center;
 	  }
-	  .research-box .text { order: 1; }
-	  .research-box img { order: 2; }
 	}
+
 
 /* Contact */
 /* General Section Styling */
