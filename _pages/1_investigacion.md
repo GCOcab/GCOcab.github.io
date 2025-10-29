@@ -59,37 +59,37 @@ En el GCO investigamos aspectos de la propagación no lineal de la luz en fibras
 
 
 <!-- 1 -->
-<div class="research-box image-right">
+<div class="research-box right">
   <div class="text">
     <h2>Propagación en medios con respuesta no lineal dependiente de la frecuencia</h2>
-    <p>Investigamos la propagación de pulsos cortos y solitones en medios ópticos con respuestas no lineales dependientes de la frecuencia. Se estudian, de manera teórica y numérica, los aspectos vinculados a la formación y evolución de solitones, los efectos del scattering Raman, y la interacción entre efectos lineales y no lineales.</p>
+    <p>Investigamos la propagación de pulsos cortos y solitones en medios ópticos con respuestas no lineales dependientes de la frecuencia...</p>
   </div>
   <img src="/images/investigacion/pcnlse.png" alt="">
 </div>
 
 <!-- 2 -->
-<div class="research-box image-left">
+<div class="research-box left">
   <div class="text">
     <h2>Analogías espacio-temporales y esquemas de conmutación totalmente óptica en fibra</h2>
-    <p>Se investigan analogías entre propagación no lineal y evolución espacio-temporal, con el propósito de desarrollar y optimizar esquemas de conmutación totalmente óptica (all-optical switching)...</p>
+    <p>Se investigan analogías entre propagación no lineal y evolución espacio-temporal...</p>
   </div>
   <img src="/images/investigacion/alloptical.png" alt="">
 </div>
 
 <!-- 3 -->
-<div class="research-box image-right">
+<div class="research-box right">
   <div class="text">
     <h2>Aplicaciones de materiales bidimensionales en el control de la respuesta no lineal de medios guiados</h2>
-    <p>Esta línea de investigación explora el uso de materiales bidimensionales, como el grafeno y el óxido de grafeno, integrados en estructuras fotónicas guiadas...</p>
+    <p>Esta línea de investigación explora el uso de materiales bidimensionales, como el grafeno y el óxido de grafeno...</p>
   </div>
   <img src="/images/investigacion/fibersensor.png" alt="">
 </div>
 
 <!-- 4 -->
-<div class="research-box image-left">
+<div class="research-box left">
   <div class="text">
     <h2>Esquemas de generación y detección de pocos fotones, y aplicaciones en comunicación cuántica</h2>
-    <p>Esta línea se orienta al desarrollo y caracterización de técnicas y dispositivos para la generación y detección de señales ópticas de muy baja potencia...</p>
+    <p>Esta línea se orienta al desarrollo y caracterización de técnicas y dispositivos...</p>
   </div>
   <img src="/images/investigacion/photons.jpg" alt="">
 </div>
