@@ -1490,21 +1490,20 @@ $baseurl: '{{ site.baseurl }}/images';
 	  text-align: justify;
 	}
 
-	/* --- Small screens --- */
+	/* Alternate layouts on large screens */
+	.image-left .text { order: 2; }
+	.image-left img { order: 1; }
+	.image-right .text { order: 1; }
+	.image-right img { order: 2; }
+
+	/* Stack vertically on small screens (always text first) */
 	@media (max-width: 800px) {
 	  .research-box {
 	    flex-direction: column;
 	    text-align: center;
 	  }
-
-	  /* This ensures the image is always below the text */
-	  .research-box img {
-	    order: 2;
-	  }
-
-	  .research-box .text {
-	    order: 1;
-	  }
+	  .research-box .text { order: 1; }
+	  .research-box img { order: 2; }
 	}
 
 /* Contact */
