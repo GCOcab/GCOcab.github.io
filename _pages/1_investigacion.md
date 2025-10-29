@@ -32,7 +32,7 @@ En el GCO investigamos aspectos de la propagación no lineal de la luz en fibras
     <h2>Analogías espacio-temporales y esquemas de conmutación totalmente óptica en fibra</h2>
     <p>Se investigan analogías entre propagación no lineal y evolución espacio-temporal, con el propósito de desarrollar y optimizar esquemas de conmutación totalmente óptica (all-optical switching). El trabajo se centra en el estudio de la interacción entre pulsos, la manipulación de la velocidad de grupo y la generación de horizontes ópticos, entre otros efectos. Estos desarrollos buscan aportar nuevas herramientas conceptuales y tecnológicas para el control eficiente y ultrarrápido de señales ópticas.</p>
   </div>
-  <img src="/images/investigacion/nonlinear.png" alt="" style="flex:1 1 300px; max-width:400px; width:100%; border-radius:8px; order:-1;">
+  <img src="/images/investigacion/alloptical.png" alt="" style="flex:1 1 300px; max-width:400px; width:100%; border-radius:8px; order:-1;">
 </div>
 
 
@@ -43,7 +43,7 @@ En el GCO investigamos aspectos de la propagación no lineal de la luz en fibras
     <h2>Aplicaciones de materiales bidimensionales en el control de la respuesta no lineal de medios guiados</h2>
     <p>Esta línea de investigación explora el uso de materiales bidimensionales, como el grafeno y el óxido de grafeno, integrados en estructuras fotónicas guiadas para el control de su respuesta no lineal. Se estudian sus propiedades ópticas y su potencial para mejorar el desempeño de sistemas de sensado fotónico, tanto en configuraciones discretas como distribuidas. En base a esto se desarrollan sensores de, por ejemplo, esfuerzo mecánico y temperatura.</p>
   </div>
-  <img src="/images/pic03.jpg" alt="" style="flex:1 1 300px; max-width:400px; width:100%; border-radius:8px; order:2;">
+  <img src="/images/investigacion/fibersensor.png" alt="" style="flex:1 1 300px; max-width:400px; width:100%; border-radius:8px; order:2;">
 </div>
 
 
@@ -54,7 +54,7 @@ En el GCO investigamos aspectos de la propagación no lineal de la luz en fibras
     <h2>Esquemas de generación y detección de pocos fotones, y aplicaciones en comunicación cuántica</h2>
     <p>Esta línea se orienta al desarrollo y caracterización de técnicas y dispositivos para la generación y detección de señales ópticas de muy baja potencia, en particular, en el régimen de pocos fotones. Se trabaja en la optimización de la eficiencia de generación por medio de procesos no lineales, en la detección y en la reducción del ruido, con especial énfasis en su aplicación a sistemas de distribución cuántica de claves (QKD).</p>
   </div>
-  <img src="/images/pic03.jpg" alt="" style="flex:1 1 300px; max-width:400px; width:100%; border-radius:8px; order:-1;">
+  <img src="/images/investigacion/photons.jpg" alt="" style="flex:1 1 300px; max-width:400px; width:100%; border-radius:8px; order:-1;">
 </div>
 
 
