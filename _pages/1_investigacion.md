@@ -41,7 +41,7 @@ En el GCO investigamos aspectos de la propagación no lineal de la luz en fibras
 <div class="research-box" style="display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:1.5rem; background:#f8f8f8; border-radius:12px; padding:1.5rem; margin:2rem 0; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
   <div class="text" style="flex:1 1 300px; text-align:justify; order:1;">
     <h2>Aplicaciones de materiales bidimensionales en el control de la respuesta no lineal de medios guiados</h2>
-    <p>Esta línea de investigación explora el uso de materiales bidimensionales, como el grafeno y el óxido de grafeno, integrados en estructuras fotónicas guiadas para el control de su respuesta no lineal. Se estudian sus propiedades ópticas y su potencial para mejorar el desempeño de sistemas de sensado fotónico, tanto en configuraciones discretas como distribuidas. En base a esto se desarrollan sensores de, por ejemplo, esfuerzo mecánico y temperatura.</p>
+    <p>Esta línea de investigación explora el uso de materiales bidimensionales, como el grafeno y el óxido de grafeno, integrados en estructuras fotónicas guiadas para el control de su respuesta no lineal. Se estudian sus propiedades ópticas y su potencial para mejorar el desempeño de sistemas de sensado fotónico, tanto en configuraciones discretas como distribuidas. Sobre esta base se desarrollan sensores ópticos capaces de medir distintas magnitudes físicas, como el esfuerzo mecánico y la temperatura.</p>
   </div>
   <img src="/images/investigacion/fibersensor.png" alt="" style="flex:1 1 300px; max-width:400px; width:100%; border-radius:8px; order:2;">
 </div>
